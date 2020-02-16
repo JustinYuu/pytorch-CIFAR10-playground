@@ -21,6 +21,7 @@ Run the script as below after cloning this repository.
 * weight decay 0.0001  
 * Momentum 0.9  
 * Optimizer SGD  
+* Epoch 300  
 
 ## Performance  
 
