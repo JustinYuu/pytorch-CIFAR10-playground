@@ -72,3 +72,5 @@ ResNeXt50_4x24d | 0.9533 | 300
 SEResNet | 0.9437 | 300
 SqueezeNet | 0.9297 | 300
 EfficientB0 | 0.948 | 300
+
+Since all networks use the same training method, this may not be the optimal performance of some networks.
