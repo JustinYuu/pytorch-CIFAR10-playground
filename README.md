@@ -18,14 +18,14 @@ Run the script as below after cloning this repository.
 ## Implementation Details  
 
 * learning rate:   
-    + epoch:     \[0, 100) 0.1
-    + epoch:     \[100, 200) 0.01
-    + epoch:     \[200, 300) 0.001  
-* weight decay:     0.0001  
-* Momentum:     0.9  
+    + epoch:    \[0, 100) 0.1
+    + epoch:    \[100, 200) 0.01
+    + epoch:    \[200, 300) 0.001  
+* weight decay:    0.0001  
+* Momentum:    0.9  
 * Optimizer:    SGD  
 * Epoch:    300  
-* GPU:      Nvidia GeForce GTX 1080 Ti
+* GPU:    Nvidia GeForce GTX 1080 Ti
 
 ## Performance  
 
