@@ -71,3 +71,4 @@ ResNeXt50_2x40d | 0.9505 | 300
 ResNeXt50_4x24d | 0.9533 | 300
 SEResNet | 0.9437 | 300
 SqueezeNet | 0.9297 | 300
+EfficientB0 | 0.948 | 300
