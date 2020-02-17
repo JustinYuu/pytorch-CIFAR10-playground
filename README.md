@@ -73,7 +73,5 @@ SEResNet | 0.9437 | 300
 SqueezeNet | 0.9297 | 300
 EfficientB0 | 0.948 | 300
 DPN92 | 0.9521 | 300
-DPN09 |  | 300
-
 
 Since all networks use the same training method, this may not be the optimal performance of some networks.
